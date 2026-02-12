@@ -1,10 +1,9 @@
 ---
 name: anonymous-identity
-description: A skill for using collective identity as protection and force multiplication
-  - being everyone and no one simultaneously.
+description: A skill for using collective identity as protection and force multiplication - being everyone and no one simultaneously.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - anonymous-identity
