@@ -3,7 +3,7 @@ name: anonymous-identity
 description: A skill for using collective identity as protection and force multiplication - being everyone and no one simultaneously.
 license: MIT
 metadata:
-  version: 1.0.3392
+  version: 1.0.3393
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
